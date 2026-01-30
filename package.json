@@ -1,5 +1,5 @@
 {
-  "name": "nz.vorlias.airship-mast",
+  "name": "nz.vorlias.airship-editor",
   "version": "0.1.0",
   "displayName": "Airship: Vorlias' Extensions",
   "unity": "6000.0",
@@ -12,7 +12,7 @@
     "access": "public"
   },
   "repository": {
-    "url": "https://github.com/vorlias/airship-mast"
+    "url": "https://github.com/vorlias/airship-editor-extensions"
   },
   "references": [
   ],
