@@ -1,0 +1,24 @@
+{
+  "name": "nz.vorlias.airship-mast",
+  "version": "0.1.0",
+  "displayName": "Airship: Vorlias' Extensions",
+  "unity": "6000.0",
+  "unityRelease": "49f1",
+  "author": {
+    "name": "Vorlias",
+    "url": "https://vorlias.nz"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "url": "https://github.com/vorlias/airship-mast"
+  },
+  "references": [
+  ],
+  "dependencies": {
+    "gg.easy.airship": "*"
+  },
+  "type": "library",
+  "description": "Airship Editor Extensions Written by Vorlias"
+}
